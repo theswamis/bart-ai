@@ -1,2 +1,2 @@
 # bart-ai
-AI Bart Planner
+AI Bart Planner app
